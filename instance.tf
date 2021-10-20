@@ -1,10 +1,4 @@
 provide "aws" {
-<<<<<<< HEAD
-
-=======
- acces_key = ""
- secret_key = ""
->>>>>>> 2934fee79ff12ec37b91e113e04a1a7cfd8389ef
  region = "us-east-1"
 
 }
